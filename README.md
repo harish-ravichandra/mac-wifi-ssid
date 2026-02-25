@@ -1,4 +1,4 @@
-# wifi-ssid
+# mac-wifi-ssid
 
 **Get your current Wi-Fi SSID on macOS — without triggering Location Services.**
 
